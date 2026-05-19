@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Source",
+      "appliesTo": "Web_Server/Source.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Source",
+      "appliesTo": "Web_Server/Source.cpp",
+      "type": "launch"
+    }
+  ]
+}
