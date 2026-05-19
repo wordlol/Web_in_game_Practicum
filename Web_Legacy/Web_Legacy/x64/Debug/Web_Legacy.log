@@ -1,0 +1,3 @@
+﻿  Web_Legacy.cpp
+C:\Users\Administrator\source\repos\Web_Legacy\Web_Legacy\Web_Legacy.cpp(111,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Web_Legacy.vcxproj -> C:\Users\Administrator\source\repos\Web_Legacy\x64\Debug\Web_Legacy.exe
