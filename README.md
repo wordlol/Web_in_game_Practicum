@@ -64,3 +64,12 @@ npm run dev
 ### 5. Просто легаси способ запустить сервак на С++
 Проект Web_Legacy
 МЕТОД ДЛЯ СТАРИКОВ
+
+Запускаешь прогу
+
+чтобы сделать ```POST``` в cmd.exe пишешь
+```cmd
+curl -X POST http://localhost:8080/leaderboard/submit -H "Content-Type: application/json" -d "{\"player_id\":1,\"score\":100}"
+```
+
+
